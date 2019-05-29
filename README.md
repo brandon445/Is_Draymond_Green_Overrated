@@ -1,6 +1,6 @@
 # Is Draymond Green Overrated?
 
-data used: https://hoopshype.com/salaries/players/
+data used: https://hoopshype.com/salaries/players/ \n
            https://www.nbastuffer.com/2018-2019-nba-player-stats/
            
 I used an HTML Parser to grab data from https://hoopshype.com/salaries/players/ and imported that to an excel sheet
